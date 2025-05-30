@@ -11,11 +11,10 @@ Foram utilizados dois datasets principais:
 1. **Cotações Históricas** — preço de abertura, fechamento, máxima, mínima e volume.  
 2. **Indicadores Financeiros** — P/L, ROE, Patrimônio Líquido, Dividend Yield, Valor Intrínseco, etc.
 
-3. git add assents/Indicadores.gif README.MD
-4. git commit -m "Adiciona IF ao README"
-5. git push origin main
+![Demonstração do Dashboard](Indicadores.gif)
 
-6. 📈 Funcionalidades
+
+3. 📈 Funcionalidades
 Preço Atual e Valor de Mercado
 
 Indicadores:
