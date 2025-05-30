@@ -40,4 +40,4 @@ Seleção de Período dinâmico via slicer de datas
 - **Python 3.x**  
   - Bibliotecas: NumPy  
 - **Power BI**  
-- **MoviePy / FFmpeg** (opcional – para gerar GIF/vídeo de demonstração)
+
